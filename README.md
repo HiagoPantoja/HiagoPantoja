@@ -1,5 +1,11 @@
 
 ### Olá! Sou o Hiago Fererira👋🏼
 
-[![Instagram(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_hiago_ferreira?igsh=MXRrYWZ1aWFpbWx1dw%3D%3D&utm_source=qr)]
-[![Linkedin(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hiago-ferreira-aab914206)]
+<div style="display: inline_block"> <br>
+  <img align="center" alt="Hiago-Python" height="110" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Hiago-Js" height="110" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Hiago-HTML" height="110" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Hiago-CSS" height="110" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+
+</div>
